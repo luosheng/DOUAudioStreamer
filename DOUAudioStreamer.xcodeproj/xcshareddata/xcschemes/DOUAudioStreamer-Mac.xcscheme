@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B3ABA76A1ABBCBA90091DFA7"
-               BuildableName = "DOUAudioStreamer-Mac.framework"
+               BuildableName = "DOUAudioStreamer.framework"
                BlueprintName = "DOUAudioStreamer-Mac"
                ReferencedContainer = "container:DOUAudioStreamer.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B3ABA76A1ABBCBA90091DFA7"
-            BuildableName = "DOUAudioStreamer-Mac.framework"
+            BuildableName = "DOUAudioStreamer.framework"
             BlueprintName = "DOUAudioStreamer-Mac"
             ReferencedContainer = "container:DOUAudioStreamer.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B3ABA76A1ABBCBA90091DFA7"
-            BuildableName = "DOUAudioStreamer-Mac.framework"
+            BuildableName = "DOUAudioStreamer.framework"
             BlueprintName = "DOUAudioStreamer-Mac"
             ReferencedContainer = "container:DOUAudioStreamer.xcodeproj">
          </BuildableReference>
@@ -94,7 +94,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B3ABA76A1ABBCBA90091DFA7"
-            BuildableName = "DOUAudioStreamer-Mac.framework"
+            BuildableName = "DOUAudioStreamer.framework"
             BlueprintName = "DOUAudioStreamer-Mac"
             ReferencedContainer = "container:DOUAudioStreamer.xcodeproj">
          </BuildableReference>
